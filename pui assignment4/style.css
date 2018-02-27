@@ -1,0 +1,73 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+
+}
+#logo{
+}
+
+nav{ 
+	margin-top: -20px;
+/*	padding-bottom: 30px;*/
+/*	margin-right: 400px;*/
+	float:right;
+}
+
+nav a{
+	padding-right: 10px;
+	text-decoration: none;
+	color: grey;
+
+}
+
+#bar{
+	width: 100%;
+	height:50px;
+	background-color: C19276;
+}
+
+#map{
+	text-align: center;
+}
+
+.info{
+	text-align: center;
+}
+
+#container{
+	width: 100%;
+}40.row{
+	margin-top: 50px;
+	margin-left: 100px;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 30px;
+    height: 300px; 
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.caption{
+	text-align: center;
+}
+
+.column2 {
+    float: left;
+    width: 35%;
+    padding: 30px;
+    height: 300px; 
+}
+
+#detail{
+	width: 50%;
+}
+
+#button{
+	text-align: center;
+}
